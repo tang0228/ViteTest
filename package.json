@@ -2,7 +2,6 @@
   "name": "wyy-music-vite",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
@@ -11,6 +10,7 @@
   "dependencies": {
     "element-plus": "^2.2.19",
     "pinia": "^2.0.23",
+    "qq-music-api": "^1.1.2",
     "vue": "^3.2.41",
     "vue-router": "^4.1.6"
   },
